@@ -1,0 +1,6 @@
+gunicorn==25.1.0
+Flask
+pandas
+scikit-learn
+flask
+flask-cors
