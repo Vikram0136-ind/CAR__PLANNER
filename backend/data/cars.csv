@@ -1,0 +1,113 @@
+name,price,mileage,fuel,transmission,seats,type,image
+Hyundai Creta,1100000,17,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?creta
+Tata Nexon,900000,18,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?nexon
+Honda City,1200000,17,Petrol,Automatic,5,Sedan,https://source.unsplash.com/400x300/?honda-city
+Kia Seltos,1250000,16,Diesel,Manual,5,SUV,https://source.unsplash.com/400x300/?seltos
+Swift,600000,22,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?swift
+XUV700,1800000,15,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?xuv700
+Maruti Baleno,750000,22,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?baleno
+Maruti Brezza,950000,19,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?brezza
+Hyundai Venue,1000000,18,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?venue
+Hyundai i20,800000,20,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?i20
+Tata Harrier,2200000,16,Diesel,Automatic,5,SUV,https://source.unsplash.com/400x300/?harrier
+MG Hector,2100000,15,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?hector
+Skoda Slavia,1500000,18,Petrol,Manual,5,Sedan,https://source.unsplash.com/400x300/?slavia
+Skoda Octavia,3000000,15,Petrol,Automatic,5,Sedan,https://source.unsplash.com/400x300/?octavia
+Volkswagen Virtus,1600000,17,Petrol,Automatic,5,Sedan,https://source.unsplash.com/400x300/?virtus
+Toyota Fortuner,4500000,12,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?fortuner
+Mahindra Thar,1600000,14,Diesel,Manual,4,SUV,https://source.unsplash.com/400x300/?thar
+Mahindra Scorpio N,1900000,15,Diesel,Manual,7,SUV,https://source.unsplash.com/400x300/?scorpio
+Jeep Compass,2500000,14,Diesel,Automatic,5,SUV,https://source.unsplash.com/400x300/?jeep-compass
+Toyota Innova,2800000,16,Diesel,Manual,7,MUV,https://source.unsplash.com/400x300/?innova
+BMW X1,4500000,15,Diesel,Automatic,5,Luxury,https://source.unsplash.com/400x300/?bmw-x1
+BMW X5,9000000,12,Diesel,Automatic,5,Luxury,https://source.unsplash.com/400x300/?bmw-x5
+BMW M4,12000000,10,Petrol,Automatic,4,Supercar,https://source.unsplash.com/400x300/?bmw-m4
+Audi A4,5500000,16,Diesel,Automatic,5,Luxury,https://source.unsplash.com/400x300/?audi-a4
+Audi A6,6500000,14,Diesel,Automatic,5,Luxury,https://source.unsplash.com/400x300/?audi-a6
+Audi R8,25000000,8,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?audi-r8
+Mercedes C-Class,6000000,15,Petrol,Automatic,5,Luxury,https://source.unsplash.com/400x300/?mercedes-c-class
+Mercedes E-Class,8000000,14,Diesel,Automatic,5,Luxury,https://source.unsplash.com/400x300/?mercedes-e-class
+Mercedes G-Wagon,25000000,10,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?g-wagon
+Lamborghini Aventador,50000000,6,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?lamborghini
+Lamborghini Huracan,45000000,7,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?huracan
+Ferrari F8 Tributo,40000000,7,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?ferrari-f8
+Ferrari Roma,42000000,8,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?ferrari
+McLaren 720S,45000000,8,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?mclaren-720s
+Bugatti Chiron,150000000,5,Petrol,Automatic,2,Hypercar,https://source.unsplash.com/400x300/?bugatti-chiron
+Rolls Royce Ghost,70000000,10,Petrol,Automatic,4,Luxury,https://source.unsplash.com/400x300/?rolls-royce
+Rolls Royce Phantom,90000000,9,Petrol,Automatic,4,Luxury,https://source.unsplash.com/400x300/?phantom
+Volvo XC90,8500000,13,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?volvo-xc90
+Jaguar XF,5500000,14,Diesel,Automatic,5,Luxury,https://source.unsplash.com/400x300/?jaguar-xf
+Jaguar F-Pace,7500000,13,Diesel,Automatic,5,SUV,https://source.unsplash.com/400x300/?jaguar-fpace
+Porsche 911,18000000,10,Petrol,Automatic,4,Supercar,https://source.unsplash.com/400x300/?porsche-911
+Porsche Cayenne,14000000,12,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?porsche-cayenne
+Tesla Model 3,6000000,20,Electric,Automatic,5,Electric,https://source.unsplash.com/400x300/?tesla-model-3
+Tesla Model S,12000000,18,Electric,Automatic,5,Electric,https://source.unsplash.com/400x300/?tesla-model-s
+Toyota Camry,4500000,18,Hybrid,Automatic,5,Sedan,https://source.unsplash.com/400x300/?camry
+Toyota Corolla,2500000,19,Petrol,Automatic,5,Sedan,https://source.unsplash.com/400x300/?corolla
+Toyota Hilux,3500000,14,Diesel,Manual,5,Pickup,https://source.unsplash.com/400x300/?hilux
+Ford Endeavour,4200000,12,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?endeavour
+Ford Mustang,7500000,10,Petrol,Automatic,4,Supercar,https://source.unsplash.com/400x300/?mustang
+Chevrolet Camaro,7000000,9,Petrol,Automatic,4,Supercar,https://source.unsplash.com/400x300/?camaro
+Nissan GTR,18000000,8,Petrol,Automatic,4,Supercar,https://source.unsplash.com/400x300/?gtr
+Nissan Magnite,800000,20,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?magnite
+Renault Kwid,500000,22,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?kwid
+Renault Duster,1200000,18,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?duster
+Skoda Kushaq,1500000,17,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?kushaq
+Skoda Superb,3500000,15,Petrol,Automatic,5,Sedan,https://source.unsplash.com/400x300/?superb
+Volkswagen Polo,900000,20,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?polo
+Volkswagen Tiguan,3200000,14,Diesel,Automatic,5,SUV,https://source.unsplash.com/400x300/?tiguan
+MG Astor,1400000,17,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?astor
+MG ZS EV,2500000,19,Electric,Automatic,5,Electric,https://source.unsplash.com/400x300/?electric-car
+Tata Punch,700000,20,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?punch
+Tata Tiago,550000,23,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?tiago
+Hyundai Verna,1500000,18,Petrol,Automatic,5,Sedan,https://source.unsplash.com/400x300/?verna
+Hyundai Tucson,3200000,14,Diesel,Automatic,5,SUV,https://source.unsplash.com/400x300/?tucson
+Kia Carnival,4000000,13,Diesel,Automatic,7,MUV,https://source.unsplash.com/400x300/?carnival
+BMW 3 Series,6000000,15,Petrol,Automatic,5,Luxury,https://source.unsplash.com/400x300/?bmw
+Audi Q7,9000000,12,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?audi-q7
+Mercedes GLS,15000000,11,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?gls
+Lamborghini Huracan,45000000,7,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?huracan
+Ferrari Roma,42000000,8,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?ferrari
+McLaren GT,40000000,9,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?mclaren
+Bugatti Veyron,120000000,5,Petrol,Automatic,2,Hypercar,https://source.unsplash.com/400x300/?bugatti
+Maruti Alto,400000,24,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?alto
+Maruti WagonR,550000,23,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?wagonr
+Maruti Celerio,500000,24,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?celerio
+Maruti Ignis,650000,22,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?ignis
+Maruti Dzire,800000,21,Petrol,Manual,5,Sedan,https://source.unsplash.com/400x300/?dzire
+Hyundai Santro,450000,22,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?santro
+Hyundai Aura,800000,20,Petrol,Manual,5,Sedan,https://source.unsplash.com/400x300/?aura
+Honda Amaze,900000,21,Petrol,Manual,5,Sedan,https://source.unsplash.com/400x300/?amaze
+Honda Jazz,850000,20,Petrol,Automatic,5,Hatchback,https://source.unsplash.com/400x300/?jazz
+Toyota Glanza,850000,21,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?glanza
+Tata Altroz,850000,22,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?altroz
+Tata Tigor,750000,20,Petrol,Manual,5,Sedan,https://source.unsplash.com/400x300/?tigor
+Mahindra Bolero,900000,16,Diesel,Manual,7,SUV,https://source.unsplash.com/400x300/?bolero
+Mahindra Marazzo,1400000,17,Diesel,Manual,7,MUV,https://source.unsplash.com/400x300/?marazzo
+Force Gurkha,1600000,13,Diesel,Manual,4,SUV,https://source.unsplash.com/400x300/?gurkha
+Jeep Wrangler,8000000,11,Petrol,Automatic,4,SUV,https://source.unsplash.com/400x300/?wrangler
+Jeep Grand Cherokee,12000000,10,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?grand-cherokee
+Land Rover Discovery,11000000,12,Diesel,Automatic,7,SUV,https://source.unsplash.com/400x300/?discovery
+Land Rover Range Rover,25000000,10,Diesel,Automatic,5,SUV,https://source.unsplash.com/400x300/?range-rover
+Lexus RX,9000000,14,Hybrid,Automatic,5,Luxury,https://source.unsplash.com/400x300/?lexus
+Lexus ES,7500000,16,Hybrid,Automatic,5,Luxury,https://source.unsplash.com/400x300/?lexus-es
+Porsche Macan,10000000,12,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?macan
+Porsche Panamera,20000000,11,Petrol,Automatic,5,Luxury,https://source.unsplash.com/400x300/?panamera
+Bentley Continental,35000000,10,Petrol,Automatic,4,Luxury,https://source.unsplash.com/400x300/?bentley
+Bentley Bentayga,40000000,9,Petrol,Automatic,5,Luxury,https://source.unsplash.com/400x300/?bentayga
+Aston Martin DB11,30000000,9,Petrol,Automatic,4,Supercar,https://source.unsplash.com/400x300/?aston-martin
+Aston Martin Vantage,28000000,8,Petrol,Automatic,2,Supercar,https://source.unsplash.com/400x300/?vantage
+Maserati Ghibli,15000000,12,Petrol,Automatic,5,Luxury,https://source.unsplash.com/400x300/?maserati
+Maserati Levante,16000000,11,Petrol,Automatic,5,SUV,https://source.unsplash.com/400x300/?levante
+Koenigsegg Jesko,300000000,6,Petrol,Automatic,2,Hypercar,https://source.unsplash.com/400x300/?koenigsegg
+Pagani Huayra,200000000,6,Petrol,Automatic,2,Hypercar,https://source.unsplash.com/400x300/?pagani
+Tesla Model X,14000000,18,Electric,Automatic,7,Electric,https://source.unsplash.com/400x300/?tesla-model-x
+Tesla Model Y,8000000,19,Electric,Automatic,5,Electric,https://source.unsplash.com/400x300/?tesla-model-y
+Citroen C3,700000,20,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?citroen
+Citroen Aircross,1100000,18,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?aircross
+Renault Triber,800000,21,Petrol,Manual,7,MUV,https://source.unsplash.com/400x300/?triber
+Fiat Punto,600000,20,Petrol,Manual,5,Hatchback,https://source.unsplash.com/400x300/?fiat
+Mini Cooper,4000000,18,Petrol,Automatic,4,Hatchback,https://source.unsplash.com/400x300/?mini-cooper
+Volkswagen Taigun,1400000,17,Petrol,Manual,5,SUV,https://source.unsplash.com/400x300/?taigun
+Volkswagen Golf,2000000,18,Petrol,Automatic,5,Hatchback,https://source.unsplash.com/400x300/?golf

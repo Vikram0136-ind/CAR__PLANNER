@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Results</title>
+    <style>
+        body {
+            background: #0f172a;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        .card {
+            background: #1e293b;
+            margin: 15px auto;
+            padding: 15px;
+            border-radius: 10px;
+            width: 300px;
+        }
+
+        a {
+            display: block;
+            margin-top: 20px;
+            color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+
+<h1>🚗 Recommended Cars</h1>
+
+{% if cars|length == 0 %}
+    <p>No cars found</p>
+{% else %}
+    {% for car in cars %}
+        <div class="card">
+            <h3>{{ car.name }}</h3>
+            <p>₹{{ car.price }}</p>
+            <p>{{ car.fuel }}</p>
+        </div>
+    {% endfor %}
+{% endif %}
+
+<a href="/">⬅ Back</a>
+
+</body>
+</html>
